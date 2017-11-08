@@ -4,4 +4,5 @@ subtitle: Raptors vs Nuggets - Section 109 Row 4 Seat 17 and 18. Great seats not
 layout: 2017_default
 modal-id: 1
 thumbnail: raptors-tickets.png
+priority: 1
 ---

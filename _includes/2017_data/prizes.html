@@ -17,7 +17,8 @@
             </div>
         </div>
         <div class="row">
-            {% for post in site.categories.prizes %}
+             {% assign sorted_pages = site.categories.prizes | sort: 'priority', 'last' %}
+            {% for post in sorted_pages %}
             <div class="col-md-4 col-sm-6 speakers-item">
                 <img src="../css/prizes/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                 <div class="speakers-caption content-fixed-height">
