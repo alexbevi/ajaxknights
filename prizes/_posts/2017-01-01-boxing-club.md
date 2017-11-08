@@ -1,6 +1,6 @@
 ---
-title: Ajax Boxing Club Passes
-subtitle: 2x 1 month passes
+title: Two (2) One-Month Ajax Boxing Club Passes
+subtitle: Our programs are consistently tough and entirely rewarding. Come prepared to work hard, gain strength and develop brand new skills.
 layout: 2017_default
 modal-id: 1
 thumbnail: boxing.png
