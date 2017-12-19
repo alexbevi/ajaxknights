@@ -5,4 +5,5 @@ layout: 2017_default
 modal-id: 1
 thumbnail: jersey.png
 priority: 1
+winner: Darrele K.
 ---

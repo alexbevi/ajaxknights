@@ -4,4 +4,5 @@ subtitle: For rich stereo sound, the Makita Cordless Jobsite Radio delivers with
 layout: 2017_default
 modal-id: 1
 thumbnail:  makita.png
+winner: Alcli
 ---

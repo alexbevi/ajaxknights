@@ -4,4 +4,5 @@ subtitle: Give the gift of doing with a Home Depot Gift Card. Congratulate a fri
 layout: 2017_default
 modal-id: 1
 thumbnail: homedepotcard.png
+winner: Brenda S.
 ---

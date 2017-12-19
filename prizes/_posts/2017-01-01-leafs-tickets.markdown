@@ -5,4 +5,5 @@ layout: 2017_default
 modal-id: 1
 thumbnail: prize-leafstickets.png
 priority: 1
+winner: Petra B.
 ---

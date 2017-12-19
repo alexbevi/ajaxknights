@@ -14,6 +14,11 @@
                         </ul>
                     </p>
                 </h3>
+                <h2>
+                    <p>The winners have been selected!</p>
+                    <p>A representative from the team will be contacting the winners to make arrangements for pickup/delivery of prizes. Each prize has been updated with the winner's information below.</p>
+
+                </h2>
             </div>
         </div>
         <div class="row">
@@ -24,6 +29,7 @@
                 <div class="speakers-caption content-fixed-height">
                     <h4>{{ post.title }}</h4>
                     <p class="text-muted">{{ post.subtitle }}</p>
+                    <p>Winner: <span class="badge alert-danger">{{ post.winner }}</span></p>
                 </div>
             </div>
             {% endfor %}

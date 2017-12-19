@@ -4,4 +4,5 @@ subtitle: We’ve got something for everyone. From beginner terrain to black dia
 layout: 2017_default
 modal-id: 1
 thumbnail: brimacombe.png
+winner: Corey C.
 ---
